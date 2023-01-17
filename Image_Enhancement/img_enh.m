@@ -1,8 +1,3 @@
-% Sanjeev Khemani
-% Machine Vision
-% Project 2
-% KSU Summer 2022
-
 close all;
 clc;
 clear;
